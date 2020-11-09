@@ -1,8 +1,17 @@
 ### Hello, I'm Raffaele Villani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+#### I'm a student @ university of Pisa, in the Artificial Intelligence curriculum 
+
 #### 👨🏻‍💻 About Me
 - 📭 Salerno, Campania, Italy
 - 🎓 Computer Science @ University of Pisa
+- 🌱 I'm currently learning Machine Learning and Artificial Intelligence
+- 🔭 I'm working on a deep learning library
+- 🥅 2020 Goals: Contributo more to Open Source projects
+- ⚡ Fun facts: I love the Windsurf 🏄
+
+#### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)

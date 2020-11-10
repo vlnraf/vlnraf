@@ -11,6 +11,10 @@
 - ⚡ Fun facts: I love the Windsurf 🏄
 
 #### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+<a href = "https://www.facebook.com/raffaele.villani.33"><img src="https://img.icons8.com/ios-glyphs/30/000000/facebook.png"/>
+<a href = "https://www.instagram.com/raff.villani/"><img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>
+<a href = "https://www.linkedin.com/in/vlnraf/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>
+<a href = "mailto:raffaele.villani17@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png"/>
 
 
 ### 🔧 Technologies & Tools

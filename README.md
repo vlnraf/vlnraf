@@ -7,7 +7,7 @@
 - 🎓 Computer Science @ University of Pisa
 - 🌱 I'm currently learning Machine Learning and Artificial Intelligence
 - 🔭 I'm working on a deep learning library
-- 🥅 2020 Goals: Contributo more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love the Windsurf 🏄
 
 #### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">

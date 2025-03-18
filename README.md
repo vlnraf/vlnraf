@@ -5,9 +5,9 @@
 #### 👨🏻‍💻 About Me
 - 📭 Salerno, Campania, Italy
 - 🎓 Computer Science @ University of Pisa
-- 🌱 I'm currently learning Machine Learning and Artificial Intelligence
-- 🔭 I'm working on a deep learning library
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I like learning Machine Learning and Artificial Intelligence
+- 🔭 I am currently working on a simple game engine with minimal features
+- 🥅 2025 Goals: Make a a simple game
 - ⚡ Fun facts: I love the Windsurf 🏄
 
 #### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">

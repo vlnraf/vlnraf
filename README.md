@@ -1,6 +1,6 @@
 ### Hello, I'm Raffaele Villani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a student @ university of Pisa, in the Artificial Intelligence curriculum 
+#### I'm a passionate computer scientist, and i love everything related to the computers. Expecially game related things or low level stuffs 
 
 #### 👨🏻‍💻 About Me
 - 📭 Salerno, Campania, Italy
